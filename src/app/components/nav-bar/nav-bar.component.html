@@ -1,0 +1,11 @@
+<nav class="navbar navbar-expand-custom navbar-mainbg">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+          <div class="hori-selector " [style]="{
+          'top': '0px', 'left': left +'px', 'height': '62.5px', 'width': width +'px'}"><div class="left"></div><div class="right"></div></div>
+          <li class="nav-item" *ngFor="let iten of nav">
+              <a class="nav-link" href="#" (click)="obterLocalizacao($event, iten.id)"><i class="fas fa-tachometer-alt"></i>{{iten.nome}}</a>
+          </li>
+      </ul>
+  </div>
+</nav>

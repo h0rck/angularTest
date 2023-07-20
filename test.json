@@ -1,0 +1,146 @@
+{
+  "nome": "Maria do Rosario",
+  "turma": "Os grands retardados",
+  "notas": [
+    {
+      "nome": "Matemática",
+      "materiaId": 1,
+      "nota": [
+        {
+          "periodoId": 1,
+          "periodos": "1 bimestre",
+          "nota": 7
+        },
+        {
+          "periodoId": 2,
+          "periodos": "2 bimestre",
+          "nota": 8
+        },
+        {
+          "periodoId": 3,
+          "periodos": "3 bimestre",
+          "nota": 9
+        },
+        {
+          "periodoId": 4,
+          "periodos": "4 bimestre",
+          "nota": 10
+        }
+      ]
+    },
+    {
+      "nome": "Portugués",
+      "materiaId": 2,
+      "nota": [
+        {
+          "periodoId": 1,
+          "periodos": "1 bimestre",
+          "nota": 7
+        },
+        {
+          "periodoId": 2,
+          "periodos": "2 bimestre",
+          "nota": 8
+        },
+        {
+          "periodoId": 3,
+          "periodos": "3 bimestre",
+          "nota": 9
+        },
+        {
+          "periodoId": 4,
+          "periodos": "4 bimestre",
+          "nota": 10
+        }
+      ]
+    },
+    {
+      "nome": "Geografia",
+      "materiaId": 3,
+      "nota": [
+        {
+          "periodoId": 1,
+          "periodos": "1 bimestre",
+          "nota": 7
+        },
+        {
+          "periodoId": 2,
+          "periodos": "2 bimestre",
+          "nota": 8
+        },
+        {
+          "periodoId": 3,
+          "periodos": "3 bimestre",
+          "nota": 9
+        },
+        {
+          "periodoId": 4,
+          "periodos": "4 bimestre",
+          "nota": 10
+        }
+      ]
+    },
+    {
+      "nome": "Historia",
+      "materiaId": 4,
+      "nota": [
+        {
+          "periodoId": 1,
+          "periodos": "1 bimestre",
+          "nota": 7
+        },
+        {
+          "periodoId": 2,
+          "periodos": "2 bimestre",
+          "nota": 8
+        },
+        {
+          "periodoId": 3,
+          "periodos": "3 bimestre",
+          "nota": 9
+        },
+        {
+          "periodoId": 4,
+          "periodos": "4 bimestre",
+          "nota": 10
+        }
+      ]
+    }
+  ],
+  "diciplinas": [
+    {
+      "nome": "Matemática",
+      "disciplinaId": 1
+    },
+    {
+      "nome": "Portugués",
+      "disciplinaId": 2
+    },
+    {
+      "nome": "Geografia",
+      "disciplinaId": 3
+    },
+    {
+      "nome": "Historia",
+      "disciplinaId": 4
+    }
+  ],
+  "periodos": [
+    {
+      "periodoId": 1,
+      "nome": "1 bimestre"
+    },
+    {
+      "periodoId": 2,
+      "nome": "2 bimestre"
+    },
+    {
+      "periodoId": 3,
+      "nome": "3 bimestre"
+    },
+    {
+      "periodoId": 4,
+      "nome": "4 bimestre"
+    }
+  ]
+}
